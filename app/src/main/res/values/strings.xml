@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactCard</string>
+    <string name="btn_edit">Edit</string>
+    <string name="description">Developer, Designer, and Builder</string>
+    <string name="email">nicholashileman@gmail.com</string>
+    <string name="website">www.nicholasheilman.com</string>
+    <string name="phone">(612)990-4226</string>
+    <string name="name">Nicholas Heilman</string>
+    <string name="btn_save">Save</string>
+</resources>
